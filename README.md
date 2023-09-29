@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning how to write and format on Github.
+  
 <!--
 **aismael-cm/aismael-cm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
